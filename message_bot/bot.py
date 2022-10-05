@@ -1,7 +1,7 @@
 import hikari
 import time
 
-bot = hikari.GatewayBot(token='MTAyNzIzMTg2Nzk2NTAyMjI0OA.Gplj-z.bxXv0qdwDJPy2ydlhp6d2jXy2cNQMXVcfqHhGY')
+bot = hikari.GatewayBot(token='<token>')
 
 @bot.listen(hikari.StartedEvent)
 async def on_started(event):
