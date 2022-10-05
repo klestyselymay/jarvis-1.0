@@ -1,0 +1,8 @@
+AppOpener
+pyperclip
+SpeechRecognition
+pyttsx3
+pywhatkit
+googletrans
+pyautogui
+gTTS
